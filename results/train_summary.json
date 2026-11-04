@@ -1,0 +1,19 @@
+{
+  "clips": 3000,
+  "speakers": 6,
+  "loso": {
+    "george": 0.664,
+    "jackson": 0.82,
+    "lucas": 0.716,
+    "nicolas": 0.676,
+    "theo": 0.84,
+    "yweweler": 0.822
+  },
+  "loso_mean": 0.7563333333333334,
+  "overall": 0.7563333333333333,
+  "held_out": "theo",
+  "float_acc": 0.84,
+  "int8_python_acc": 0.834,
+  "params": 5594,
+  "weight_bytes": 5780
+}

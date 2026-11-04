@@ -1,0 +1,4 @@
+__pycache__/
+fsdd/
+tools/*.bin
+tools/host_test
